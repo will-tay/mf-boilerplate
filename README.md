@@ -8,10 +8,12 @@ This app can be run as a standard 'standalone' React App, or as part of micro fr
 
 Make sure you have node / npm installed and just run: 
 
-```npm i
+```
+npm i
 ```
 
 ## Usage
 
-```npm run start
+```
+npm run start
 ```
